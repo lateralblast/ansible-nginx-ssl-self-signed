@@ -120,7 +120,7 @@ Create Nginx parameters file:
       ssl_session_tickets off; # Requires nginx >= 1.5.9
       ssl_stapling on; # Requires nginx >= 1.3.7
       ssl_stapling_verify on; # Requires nginx => 1.3.7
-      resolver {{ web_dns }} valid=300s;
+      resolver 8.8.8.8 valid=300s;
       resolver_timeout 5s;
       # Disable strict transport security for now. You can uncomment the following
       # line if you understand the implications.
