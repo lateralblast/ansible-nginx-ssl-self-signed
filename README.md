@@ -50,7 +50,7 @@ Create key pair:
 - name: Create Key Pair
   openssl_privatekey:
     path: /etc/ssl/private/nginx-selfsigned.key
-    size: 204
+    size: 2048
 ```
 
 Create certificate signing request:
