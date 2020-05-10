@@ -170,6 +170,6 @@ Restart Nginx:
   service:
     name:    "nginx"
     enabled: yes
-    state:   restarte
+    state:   restarted
   when: restart_nginx.changed == true
 ```
