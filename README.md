@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/lateralblast/ansible-nginx-self-signed/master/images/self-signed.jpg)
+![alt tag](https://raw.githubusercontent.com/lateralblast/ansible-nginx-ssl-self-signed/master/images/self-signed.jpg)
 
 Automating Nginx SSL Self Signed Certificate Configuration
 ==========================================================
