@@ -30,6 +30,7 @@ This example does the following:
 - Create Nginx self-signed SSL configuration file
 - Create Nginx self-signed SSL parameters file
 - Create Nginx SSL self-signed site configuration file
+- Restart Nginx
 
 Check packages are installed:
 
